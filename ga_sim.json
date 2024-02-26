@@ -25,7 +25,7 @@
     "mM_max": 20.00,
     "Mv_min": -14.00,
     "Mv_max": 2.5,
-    "log10_rexp_min": -0.5,
+    "log10_rexp_min": -1.5,
     "log10_rexp_max": 3.2,
     "frac_bin": 0.2,
     "IMF_author": "Chabrier_exp",
