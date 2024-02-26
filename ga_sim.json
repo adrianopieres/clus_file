@@ -5,8 +5,8 @@
     "nside3": 262144,
     "nside_infile": 32,
     "ra_min": 0.0,
-    "ra_max": 50.0,
-    "dec_min": -10.0,
+    "ra_max": 100.0,
+    "dec_min": -60.0,
     "dec_max": 0.0,
     "mmin": 16.0,
     "mmax": 24.0,
@@ -23,7 +23,7 @@
     "padova_version_code": "3.6",
     "mM_min": 15.00,
     "mM_max": 20.00,
-    "Mv_min": -10.00,
+    "Mv_min": -14.00,
     "Mv_max": 2.5,
     "log10_rexp_min": -0.5,
     "log10_rexp_max": 3.2,
@@ -43,12 +43,5 @@
     "star_clusters_simulated": "/home/adriano/Dropbox/ga-wazpy/clus_file/star_clusters_simulated.dat",
     "results_path": "/home/adriano/Dropbox/ga-wazpy/clus_file",
     "ra_str": "ra",
-    "dec_str": "dec",
-    "min_dist_arcsec": 2.00,
-    "mag_ref_comp": 22.5,
-    "comp_mag_ref": 1.00,
-    "comp_mag_max": 0.1,
-    "snr_inner_circle_arcmin": 2.0,
-    "snr_rin_annulus_arcmin": 15.0,
-    "snr_rout_annulus_arcmin": 25.0
+    "dec_str": "dec"
 }
